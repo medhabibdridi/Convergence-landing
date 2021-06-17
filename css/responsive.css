@@ -135,6 +135,8 @@ Version:	1.1
 }
 .hero-area .slide-text {
 	padding-right: 270px;
+	text-align: right;
+	width: 50%;
 }
 .hero-area .slide-text.right {
 	text-align: right;
@@ -268,6 +270,9 @@ Version:	1.1
 }
 .mobile-nav{
 	display:block;
+}
+.login{
+	
 }
 .breadcrumbs h2 {
 	font-size: 35px;
@@ -492,10 +497,20 @@ Version:	1.1
 }
 .hero-area .slide-text {
 	padding-right: 30%;
+	text-align: left;
+	max-width: 50%;
+
 }
 .hero-area .slide-text.right {
 	text-align: right;
 	padding: 0 0 0 30%;
+
+}
+.butooun{
+	width: 50px;
+	display: none;
+	
+
 }
 .hero-area .slide-text h1 .short {
 	margin: 0;
@@ -783,4 +798,9 @@ Version:	1.1
 .error-page .error-inner h1 span {
 	font-size: 35px;
 }
+}
+@media only screen and (min-width: 992px) {
+	.login{
+		margin-left: 200px;
+	}
 }
