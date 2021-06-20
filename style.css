@@ -1805,7 +1805,7 @@ input:-webkit-autofill:focus {
 	margin-top: 40px;
 }
 .why-choose .why-video {
-	background: url(https://scontent.ftun15-1.fna.fbcdn.net/v/t1.15752-9/201442478_392370892145251_8349630592264227800_n.png?_nc_cat=111&ccb=1-3&_nc_sid=ae9488&_nc_ohc=mEgkn_sg2UIAX_U5A0Z&_nc_ht=scontent.ftun15-1.fna&oh=517c53499ce158e4fc879f11899f6d55&oe=60CF9947);
+	background: url(images/cover.png);
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
